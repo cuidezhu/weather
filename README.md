@@ -12,11 +12,11 @@
 
 ## 技术栈
 
-- Next.js 14
-- React 18
+- Next.js 15
+- React 19
 - TypeScript
 - Tailwind CSS
-- WeatherMap API
+- 天气 Weather API
 
 ## 开始使用
 
